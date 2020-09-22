@@ -4,5 +4,11 @@
 			"path": "."
 		}
 	],
-	"settings": {}
+	"settings": {
+		"githubPullRequests.remotes": [
+			"origin",
+			"upstream",
+			"Rosalind"
+		]
+	}
 }
